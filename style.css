@@ -1,0 +1,54 @@
+h1{color: yellow;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace ;
+    text-align: center;
+    font-size: 40px;
+}
+
+.l1{color: red;
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
+
+.l2{color: rgba(0, 255, 21, 0.801);
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
+
+.l3{color: rgb(45, 77, 218);
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
+
+p {font-size: 15px;
+    font-weight: bold;    
+}
+
+div {background-color: rgb(226, 147, 43);
+    text-align: center;
+}
+
+h2{color: red;}
+
+.burger{
+    width: 600px;
+    height: auto;
+}
+
+.rata {
+    width: 600px;
+    height: auto;
+}
+
+.salsa {
+    width: 600px;
+    height: auto;
+}
+
+.descrip{font-size: 16px;}
