@@ -1,9 +1,23 @@
+/* CSS de pagina principal*/
+body{
+    margin: 2px auto;
+}
+
 h1{color: yellow;
     background-color: black;
     font-family: 'Courier New', Courier, monospace ;
     text-align: center;
     font-size: 40px;
+    padding: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
+
+.po{
+    width: auto;
+    height: 20px ;
+    background-color: rgb(255, 38, 0);}
+
 
 .l1{color: red;
     background-color: white;
@@ -26,17 +40,39 @@ h1{color: yellow;
     text-align: left;
 }
 
+
 p {font-size: 15px;
     font-weight: bold;    
 }
 
-div {background-color: rgb(226, 147, 43);
+.test {background-color: rgb(226, 147, 43);
     text-align: center;
 }
 
-h2{color: red;}
+.odin.img{
+    display: block;
+    width: 700px;
+    height: auto;
+    margin: 0px auto;
+}
 
-.burger{
+
+.flot{
+    width: auto;
+    height: auto;
+    background-color:rgb(56, 202, 56) ;    
+}
+
+
+
+/*CSS de Paginas de recetas*/ 
+h2{
+    color: red;
+    border: 3px solid yellowgreen;
+    padding-left: 8px;
+}
+
+.burger{ 
     width: 600px;
     height: auto;
 }
@@ -46,9 +82,33 @@ h2{color: red;}
     height: auto;
 }
 
-.salsa {
-    width: 600px;
+
+
+/*Salsas*/
+
+.blok-salsas{
+    margin: 9px;
+}
+.sal1 {
+    width: 400px;
     height: auto;
 }
 
-.descrip{font-size: 16px;}
+.sal2{
+    width: 400px;
+    height: auto;
+}
+
+.sal3{
+    width: auto;
+    height: 200px;   
+}
+
+
+
+
+.descrip{
+    font-size: 16px;
+    margin-left: 8px;
+}
+
